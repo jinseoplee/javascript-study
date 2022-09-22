@@ -4,7 +4,7 @@
 
 HTML에서 자바스크립트를 작성할 수 있는 위치는 2가지다.
 
-HTML head 태그
+- HTML head 태그
 
 ```javascript
 <!DOCTYPE html>
@@ -20,7 +20,7 @@ HTML head 태그
 </html>
 ```
 
-HTML body 태그
+- HTML body 태그
 
 ```javascript
 <!DOCTYPE html>
