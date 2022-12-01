@@ -260,7 +260,7 @@ let userList2 = userList.map(function (user) {
 });
 ```
 
-### 4.4.14 reduce()
+## reduce()
 
 배열에 담긴 데이터를 하니씩 순회하며 callback 함수의 실행 값을 누적하여 결과값을 반환하는 함수이다.
 
